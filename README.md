@@ -1,16 +1,16 @@
 # README — Retiree Corporation: Purpose, Values, and How We Work
 
-Welcome to the Retiree Corporation. We are a community of **retired professionals** who wish to continue contributing meaningfully after retirement, while **prioritizing spiritual, mental, and physical well-being**, including sleep, exercise, and time with family and friends.
+Welcome to the Retiree Corporation! We are a vibrant community of **retired professionals** committed to making meaningful contributions beyond retirement while prioritizing **spiritual, mental, and physical well-being**—including quality sleep, regular exercise, and time with family and friends.
 
-Our mission is to leverage decades of experience, knowledge, and wisdom to mentor, advise, and collaborate across generations, in ways that are sustainable and fulfilling.
+Our mission is to harness decades of experience and wisdom to mentor, advise, and collaborate across generations in ways that are both **sustainable and fulfilling**.
 
 ---
 
 ## 1. Our Purpose
 
-We exist to create meaningful impact while maintaining **holistic well-being**. Our work is a choice, not a necessity—designed to benefit others and ourselves in ways that are rewarding, balanced, and health-conscious.
+We exist to create meaningful impact while maintaining **holistic well-being**. Participation is a choice, not an obligation—our work benefits both others and ourselves in ways that are rewarding, balanced, and health-conscious.
 
-We pursue **sustainable excellence**, ensuring our contributions are grounded in clarity, vitality, presence, and integrity.
+We pursue **sustainable excellence**, ensuring every contribution is grounded in clarity, vitality, presence, and integrity.
 
 ---
 
@@ -19,52 +19,52 @@ We pursue **sustainable excellence**, ensuring our contributions are grounded in
 ### **Sustainable Excellence & Well-Being**
 
 * Prioritize rest, recovery, and mindfulness
-* Maintain physical health and regular exercise
+* Maintain physical health through regular exercise
 * Nurture relationships with family, friends, and community
-* Cultivate spiritual well-being, inner alignment, and purpose
+* Cultivate spiritual well-being and inner alignment
 
 ### **Vision**
 
-* Dream and create thoughtfully, with purpose beyond self
+* Dream and create with purpose beyond self-interest
 * Use technology and knowledge to empower others without sacrificing balance
 
 ### **Discipline**
 
 * Commit to work with focus and craftsmanship
 * Respect personal boundaries and energy levels
-* Know when to engage, pause, or realign priorities
+* Recognize when to engage, pause, or realign priorities
 
 ### **Resilience**
 
 * Learn and grow from setbacks
-* Recalibrate intentionally rather than push through exhaustion
+* Recalibrate intentionally rather than pushing through exhaustion
 
 ### **Adaptability & Nimbleness**
 
-* Adjust pace, methods, and priorities with balance
-* Embrace change while protecting health, values, and purpose
+* Adjust pace, methods, and priorities thoughtfully
+* Embrace change while safeguarding health, values, and purpose
 
 ### **Cross-Domain Mastery**
 
 * Blend professional expertise with life experience
-* Mentor and teach as core contributions
+* Mentor and teach as central contributions
 * Value wisdom and reflection alongside innovation and speed
 
 ### **AI Collaboration & Stewardship**
 
-* Use AI tools to enhance work without replacing human judgment
-* Ensure ethics, integrity, and intention guide decisions
+* Leverage AI tools to enhance work without replacing human judgment
+* Ensure ethics, integrity, and intention guide all decisions
 
 ---
 
 ## 3. How We Work
 
-* Sustainable pace is the default; avoid overwork and burnout
-* Async communication and personal time are respected
-* Deep focus, recovery, and intentional effort are built-in
-* Decisions prioritize long-term health, clarity, and relationships
-* Mentorship, teaching, and collaboration across generations are core contributions
-* Human values, ethics, and conscience guide the use of AI and technology
+* Maintain a sustainable pace; avoid overwork and burnout
+* Respect asynchronous communication and personal time
+* Build deep focus, recovery, and intentional effort into workflows
+* Make decisions prioritizing long-term health, clarity, and relationships
+* Emphasize mentorship, teaching, and cross-generational collaboration
+* Ensure human values, ethics, and conscience guide AI and technology use
 
 ---
 
@@ -72,14 +72,32 @@ We pursue **sustainable excellence**, ensuring our contributions are grounded in
 
 * Quality, integrity, and impact of contributions
 * Health, well-being, and satisfaction of members
-* Sustainability of pace and continued engagement
+* Sustainability of pace and ongoing engagement
 * Continuity of mentorship and knowledge transfer
 
 ---
 
 ## 5. Guiding Principle
 
-> We choose to work and contribute in ways that allow us to remain whole—physically, mentally, relationally, and spiritually. We aim to share our wisdom, skills, and experience in a balanced, meaningful, and sustainable way across projects, seasons, and generations.
+> We choose to contribute in ways that preserve our **physical, mental, relational, and spiritual wholeness**. We share wisdom, skills, and experience in a balanced, meaningful, and sustainable manner across projects, seasons, and generations.
+
+---
+
+## 6. Membership, Partnership, and Trust
+
+Members, partners, and collaborators are individuals of integrity who share our values and fit seamlessly into our culture. We are selective by design; alignment matters more than scale, speed, or opportunity. Character, judgment, and mutual respect are as important as professional capability.
+
+Members and partners are expected to:
+
+* Act with honesty, accountability, and ethical clarity
+* Respect the rhythms, boundaries, and well-being of others
+* Communicate thoughtfully and directly
+* Honor commitments while recognizing human limits
+* Uphold confidentiality, trust, and professional discretion
+
+Trust is earned through consistent behavior, shared values, and genuine care for the whole person—not just the work. Each member’s reputation reflects on the community as a whole.
+
+Our culture is founded on mutual support, mentorship, and quiet excellence. We collaborate generously, challenge respectfully, and prioritize group integrity over individual gain.
 
 ---
 
