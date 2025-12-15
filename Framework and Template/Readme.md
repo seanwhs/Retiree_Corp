@@ -1,4 +1,4 @@
-**# Open Source Project Artifacts
+# Open Source Project Artifacts
 
 This guide outlines the key artifacts for open-source projects in development, training, and consultancy, designed to ensure **clarity, collaboration, and sustainability** while honoring the experience and wisdom of our members.
 
