@@ -1,4 +1,5 @@
 # README — Retiree Corporation: Purpose, Values, and How We Work
+> "Dare to dream big – the space between what's possible and impossible is where greatness ignites."
 
 Welcome to the Retiree Corporation! We are a vibrant community of **retired professionals** committed to making meaningful contributions beyond retirement while prioritizing **spiritual, mental, and physical well-being**—including quality sleep, regular exercise, and time with family and friends.
 
