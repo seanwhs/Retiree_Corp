@@ -1,5 +1,7 @@
 # Community Stories & Impact
 
+> Echoes of today shape tomorrows – let your impact resonate. Legacies are built on moments – yours is shaping the narrative.
+
 The Retiree Corporation celebrates the contributions and achievements of its members, highlighting the real-world impact of mentorship, collaboration, and resilience.
 
 ---
