@@ -1,6 +1,6 @@
 # Lifelong Learning & Cross-Domain Exploration
 
-> - Learn without borders: the intersections spark the brightest insights.
+> Learn without borders: the intersections spark the brightest insights.
 
 The Retiree Corporation supports continuous learning and exploration, empowering members to grow intellectually, creatively, and personally in retirement.
 
