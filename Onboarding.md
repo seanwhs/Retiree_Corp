@@ -1,5 +1,7 @@
 # Member Onboarding Guide
 
+> Open doors to new beginnings: welcome to the next adventure.
+
 Welcome to the Retiree Corporation! This guide provides a clear, step-by-step orientation for new members, helping you integrate smoothly into our community.
 
 ---
