@@ -1,5 +1,7 @@
 # Project Frameworks & Best Practices
 
+> Build with intent, craft with care – projects become pathways.
+
 The Retiree Corporation provides structured approaches for collaborative projects, ensuring **clarity, quality, and sustainability** in all initiatives.
 
 ---
