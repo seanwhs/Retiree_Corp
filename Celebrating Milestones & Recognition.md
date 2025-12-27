@@ -1,6 +1,6 @@
 # Celebrating Milestones & Recognition
 
-> - Milestones are stars in the map of progress – celebrate each, and the journey glows.
+> Milestones are stars in the map of progress – celebrate each, and the journey glows.
 
 
 The Retiree Corporation values acknowledgment of achievements, ensuring contributions are recognized while preserving humility and focus.
