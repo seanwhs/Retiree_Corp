@@ -1,5 +1,7 @@
 # Open Source Project Artifacts
 
+> Shared wisdom fuels collective creation – artifacts of today shape open pathways. Source the collective mind, let artifacts guide sustainable impact.
+
 This guide outlines the key artifacts for open-source projects in development, training, and consultancy, designed to ensure **clarity, collaboration, and sustainability** while honoring the experience and wisdom of our members.
 
 ---
