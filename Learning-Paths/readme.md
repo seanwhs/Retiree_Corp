@@ -1,5 +1,7 @@
 # **Strategic Python: Architecting Your Professional Pivot**
 
+> Code, collaborate, craft – write your digital story with Python.
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/688f35f6-b958-46bd-b147-ea51ebc2098b" />
 
 
