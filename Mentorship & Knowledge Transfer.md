@@ -1,5 +1,7 @@
 # Mentorship & Knowledge Transfer
 
+> Fuel sparks within – guidance shapes journeys, igniting unseen paths
+
 The Retiree Corporation emphasizes cross-generational mentorship and effective knowledge transfer, ensuring that wisdom and experience are shared meaningfully.
 
 ---
