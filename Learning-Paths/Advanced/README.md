@@ -45,3 +45,4 @@ Consider mentoring new learners, creating tutorials, or contributing to Retiree 
 ---
 
 [⬅ Back to Learning Paths Overview](../README.md)
+[Intermediate Paths](../Intermediate/README.md)

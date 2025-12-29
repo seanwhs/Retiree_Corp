@@ -6,6 +6,17 @@ A curated library of structural blueprints and implementation standards for the 
 
 ---
 
+
+## Templates
+
+- [API Specifications](API-Specifications-Template.md)
+- [Architecture Diagrams](Architecture-Diagrams-Template.md)
+- [Code Samples & Snippets](Code-Samples-&-Snippets-Template.md)
+- [Data Models & Schemas](Data-Models-&-Schemas-Template.md)
+
+---
+
+
 ## 📋 Overview
 This archive serves as a "Source of Truth" for technical design. By utilizing these standardized artifacts, we ensure our contributions remain robust and self-explanatory—allowing us to deliver professional-grade work while protecting our time for family, rest, and personal pursuits.
 
@@ -55,3 +66,7 @@ We contribute to this archive not to stay busy, but to stay **sharp**. Every tem
 ---
 
 *This archive is a tool for the second act of a professional life—where the work is high-impact, but the life is the priority.*
+
+---
+
+[⬅ Back to Frameworks & Templates](../README.md)

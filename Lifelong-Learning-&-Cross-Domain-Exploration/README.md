@@ -6,6 +6,13 @@ The Retiree Corporation supports continuous learning and exploration, empowering
 
 ---
 
+## Documents
+
+- [Mentorship & Knowledge Transfer](Mentorship-&-Knowledge-Transfer.md)
+- [Onboarding Guide](Onboarding.md)
+
+---
+
 ## 1. Encouraging Continuous Learning in New Fields
 
 * Explore topics outside your professional background to stimulate curiosity and broaden perspectives.

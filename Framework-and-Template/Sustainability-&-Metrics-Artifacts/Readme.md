@@ -7,6 +7,13 @@ A collection of frameworks designed for associates and partners. This repository
 
 ---
 
+## Templates
+
+- [Knowledge Retention & Lessons Learned](Knowledge-Retention-&-Lessons-Learned-Template.md)
+- [Performance Dashboards](Performance-Dashboards-Template.md)
+- [Well-Being & Sustainable Participation Guidelines](Well-Being\ &\ Sustainable\ Participation\ Guidelines\ Template.md)
+
+---
 ## 📋 The Philosophy
 This toolkit is built on the principle of **Sustainable Participation**. We believe that professional work should fit into the margins of a well-lived life, not the other way around. These artifacts help manage boundaries, track impact, and ensure that every project is worth the time it takes away from friends and rest.
 
@@ -42,3 +49,7 @@ As professionals in our "second act," our best contribution is often our perspec
 ---
 
 *“To be able to fill leisure intelligently is the last product of civilization.” — Bertrand Russell*
+
+---
+
+[⬅ Back to Frameworks & Templates](../README.md)

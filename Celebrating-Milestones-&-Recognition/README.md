@@ -8,7 +8,7 @@ The Retiree Corporation values acknowledgment of achievements, ensuring contribu
 ---
 ## Subsections
 
-- [Community Stories & Impact](Community Stories & Impact/)
+- [Community Stories & Impact](Community-Stories-&-Impact.md)
 
 ---
 

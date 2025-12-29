@@ -4,6 +4,12 @@ The Retiree Corporation maintains clear governance structures to ensure **ethica
 
 ---
 
+## Documents
+
+- [Ethical AI and Technology Use](Ethical-AI-and-Technology-Use.md)
+
+---
+
 ## 1. Community Rules, Ethics, and Accountability
 
 * **Core Values Alignment**: All activities should reflect the community's purpose, integrity, and well-being.

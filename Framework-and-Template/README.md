@@ -8,6 +8,7 @@ This section contains reusable organizational assets.
 - [Sustainability & Metrics](Sustainability-&-Metrics-Artifacts/)
 - [Technical Artifacts](Technical-Artifacts/)
 - [Training & Knowledge](Training-&-Knowledge-Artifacts/)
+- [On Project Frameworks and Best Practices](Project-Frameworks-&-Best-Practices.md)
 
 # Open Source Project Artifacts
 

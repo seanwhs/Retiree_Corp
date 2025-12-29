@@ -2,13 +2,34 @@
 
 This folder contains essential reference materials, templates, and visual assets to support Retiree Corporation initiatives, training, learning, and organizational knowledge sharing.
 
-### Documents
+# Resources
+
+This section contains **handouts, decks, tools, and images** for members.
+
+---
+
+## Documents
 
 Slides, word documents, slides, spreadsheets used in this repo.
 
-### Images
+
+- [Retiree Corporation Handout](Retiree_Corporation_Handout.docx)
+- [Retreat Values Deck](Retreat_Values_Deck.pptx)
+- [Tools & Resources Library](Tools\ &\ Resources\ Library\ for\ Trainers,\ Developers,\ and\ Consultants.md)
+- [Values and Operating Charter](Values_and_Operating_Charter.pptx)
+
+---
+
+## Images
 
 Images used in this repo.
+
+- ![Learning Path Overview](images/learning-path-overview.png)
+- ![Learning Path Detailed](images/learning-path-detailed.png)
+
+---
+
+
 
 ## Notes
 

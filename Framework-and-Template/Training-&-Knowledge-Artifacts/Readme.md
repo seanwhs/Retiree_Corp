@@ -6,6 +6,15 @@ A specialized collection of frameworks designed to facilitate the seamless trans
 
 ---
 
+## Templates
+
+- [FAQ & Troubleshooting](FAQ-&-Troubleshooting-Template.md)
+- [Mentorship Logs](Mentorship-Logs-Template.md)
+- [Onboarding Guide](Onboarding-Guide-Template.md)
+- [Tutorials & Workshops](Tutorials-&-Workshops-Template.md)
+
+---
+
 ## 📋 Philosophy of Transfer
 In this stage of our careers, we prioritize **Knowledge Stewardship**. These tools are not meant for high-pressure corporate training; they are designed to provide a gentle, structured path for others to learn from our decades of experience without requiring our constant "on-call" presence.
 
@@ -53,3 +62,7 @@ We contribute here to build a legacy. An ideal artifact is:
 ---
 
 *“To teach is to learn twice.” — Joseph Joubert*
+
+---
+
+[⬅ Back to Frameworks & Templates](../README.md)

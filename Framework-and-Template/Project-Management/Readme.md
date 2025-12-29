@@ -6,6 +6,16 @@ A curated collection of professional templates designed to **eliminate friction*
 
 ---
 
+## Templates
+
+- [Project Dependency Tracker](Project-Dependency-Tracker-Template.md)
+- [Project Planning](Project-Planning-Template.md)
+- [Project Release Notes](Project-Release-Notes-Template.md)
+- [Project Timeline & Milestones](Project-Timeline-&-Milestones-Template.md)
+- [Risk Register](Risk-Register-Template.md)
+
+---
+
 ## 📋 Overview
 Project success relies on consistency. This repository provides a standardized framework to help teams navigate the project lifecycle—from high-level planning and risk mitigation to the final delivery.
 
@@ -43,3 +53,7 @@ Great project management is a collaborative effort. We welcome contributions tha
 
 ## ⚖️ License
 This project is licensed under the **MIT License**. Feel free to use and adapt these tools for personal or commercial projects.
+
+---
+
+[⬅ Back to Frameworks & Templates](../README.md)
