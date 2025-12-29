@@ -130,5 +130,9 @@ Each path equips associates with **tangible skills** that are directly applicabl
 
 ---
 
-[⬅ Back to Retiree_Corp](../README.md)
+### Links
 
+- [⬅ Back to Retiree Corporation](../README.md)
+- [Beginner Paths](Beginner/)
+- [Intermediate Paths](Intermediate/)
+- [Advanced Paths](Advanced/)

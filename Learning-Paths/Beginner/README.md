@@ -45,9 +45,4 @@ Once you are comfortable with these fundamentals, move on to the [Intermediate P
 
 ---
 
-### Links
-
-- [⬅ Back to Retiree Corporation](../README.md)
-- [Beginner Paths](Beginner/)
-- [Intermediate Paths](Intermediate/)
-- [Advanced Paths](Advanced/)
+[⬅ Back to Learning Paths Overview](../README.md)
