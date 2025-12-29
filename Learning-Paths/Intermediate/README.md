@@ -46,7 +46,7 @@ After mastering intermediate-level concepts, move to the [Advanced Paths](../Adv
 ---
 
 
-[⬅ Back to Learning Paths Overview](../README.md)  
-[⬅ Back to Home](../../README.md)  
-[Beginner Paths](../Beginner/README.md)      
-[Advanced Paths](../Advanced/README.md)      
+[⬅ Back to Learning Paths Overview](../README.md)       
+[⬅ Back to Home](../../README.md)            
+[Beginner Paths](../Beginner/README.md)           
+[Advanced Paths](../Advanced/README.md)          
