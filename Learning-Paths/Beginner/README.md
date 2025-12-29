@@ -45,4 +45,4 @@ Once you are comfortable with these fundamentals, move on to the [Intermediate P
 
 ---
 
-[⬅ Back to Learning Paths](../README.md)
+[⬅ Back to Learning Path Overview](../README.md)

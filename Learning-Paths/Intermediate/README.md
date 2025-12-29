@@ -45,4 +45,4 @@ After mastering intermediate-level concepts, move to the [Advanced Paths](../Adv
 
 ---
 
-[⬅ Back to Learning Paths](../README.md)
+[⬅ Back to Learning Paths Overview](../README.md)
