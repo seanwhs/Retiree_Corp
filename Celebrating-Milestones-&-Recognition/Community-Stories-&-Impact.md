@@ -34,5 +34,6 @@ By sharing community stories, the Retiree Corporation reinforces **values, inspi
 
 ---
 
-[⬅ Back to Celebrating Milestones & Recognition](../README.md)
+[⬅ Back to Celebrating Milestones & Recognition](README.md)
+[⬅ Back to Home](../README.md)
 

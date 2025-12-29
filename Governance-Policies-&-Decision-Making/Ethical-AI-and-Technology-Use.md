@@ -34,5 +34,6 @@ By responsibly integrating AI and technology, we ensure our contributions remain
 
 ---
 
-[⬅ Back to Governance and Decision Making Templates](README.md)      
-[⬅ Back to Frameworks & Templates](../README.md) 
+[⬅ Back to Governance and Decision Making Templates](README.md)       
+[⬅ Back to Frameworks & Templates](../README.md)        
+[⬅ Back to Home](../../README.md)       

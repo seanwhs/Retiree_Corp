@@ -56,4 +56,5 @@ This project is licensed under the **MIT License**. Feel free to use and adapt t
 
 ---
 
-[⬅ Back to Frameworks & Templates](../README.md)
+[⬅ Back to Frameworks & Templates](../README.md)        
+[⬅ Back to Home](../../README.md)        

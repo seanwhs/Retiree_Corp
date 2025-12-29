@@ -86,6 +86,6 @@ By using this template, contributors can ensure that open-source projects are **
 ---
 
 # Links
-[⬅ Back to Project Management Templates](Readme.md)
-[⬅ Back to Frameworks & Templates](../README.md)
-[⬅ Back to Home](../../README.md)
+[⬅ Back to Project Management Templates](Readme.md)     
+[⬅ Back to Frameworks & Templates](../README.md)        
+[⬅ Back to Home](../../README.md)       

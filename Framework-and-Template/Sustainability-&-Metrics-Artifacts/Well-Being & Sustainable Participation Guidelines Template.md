@@ -13,7 +13,6 @@
 
 ---
 
-# Links
-[⬅ Back to Sustainability and Metrics Artifacts](Readme.md)
-[⬅ Back to Frameworks & Templates](../README.md)
-[⬅ Back to Home](../../README.md)
+[⬅ Back to Sustainability and Metrics Artifacts](README.md)         
+[⬅ Framework and Template](../README.md)          
+[⬅ Back to Home](../../README.md)    
