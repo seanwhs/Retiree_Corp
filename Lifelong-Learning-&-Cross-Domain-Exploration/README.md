@@ -41,4 +41,4 @@ By embracing lifelong learning and cross-domain exploration, members of the Reti
 
 ---
 
-[⬅ Back to Retiree_Corp](../README.md)
+[⬅ Back to Home](../README.md)

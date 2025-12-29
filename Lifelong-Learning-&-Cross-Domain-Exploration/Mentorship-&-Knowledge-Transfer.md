@@ -36,5 +36,5 @@ By focusing on effective mentorship and knowledge transfer, members of the Retir
 
 ---
 
-[⬅ Back to Lifelong Learning and Cross Domain Exploration Templates](../README.md)      
-[⬅ Back to Frameworks & Templates](../README.md) 
+[⬅ Back to Lifelong Learning and Cross Domain Exploration Templates](README.md)      
+[⬅ Back to Home](../README.md) 

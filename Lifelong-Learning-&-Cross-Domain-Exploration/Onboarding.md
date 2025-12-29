@@ -59,5 +59,5 @@ Welcome aboard! Your contributions and well-being are both valued as integral pa
 
 ---
 
-[⬅ Back to Lifelong Learning and Cross Domain Exploration Templates](../README.md)      
-[⬅ Back to Frameworks & Templates](../README.md) 
+[⬅ Back to Lifelong Learning and Cross Domain Exploration Templates](README.md)      
+[⬅ Back to Home](../README.md) 

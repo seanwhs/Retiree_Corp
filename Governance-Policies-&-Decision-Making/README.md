@@ -39,4 +39,4 @@ By adhering to these governance practices, the Retiree Corporation ensures a **t
 
 ---
 
-[⬅ Back to Retiree_Corp](../README.md)
+[⬅ Back to Home](../README.md)

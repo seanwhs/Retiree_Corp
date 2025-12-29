@@ -67,5 +67,5 @@ This artifact framework supports **thoughtful, sustainable, and collaborative op
 
 ---
 
-[⬅ Back to Retiree_Corp](../README.md)
+[⬅ Back to Home](../README.md)
 

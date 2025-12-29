@@ -45,5 +45,5 @@ Once you are comfortable with these fundamentals, move on to the [Intermediate P
 
 ---
 
-[⬅ Back to Learning Paths Overview](../README.md)
-[Intermediate Paths](../Intermediate/README.md)
+[⬅ Back to Learning Paths Overview](../README.md)     
+[Intermediate Paths](../Intermediate/README.md)    
