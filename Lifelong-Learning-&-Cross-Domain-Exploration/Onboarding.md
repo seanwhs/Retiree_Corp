@@ -61,6 +61,6 @@ Welcome aboard! Your contributions and well-being are both valued as integral pa
 
 [![Join Us](/Retiree_Corp/Resources/images/signup.png)](/Retiree_Corp/Sign-Up.html)               
 
-[⬅ Back to Lifelong Learning and Cross Domain Exploration Templates](/Retiree_Corp/Lifelong-Learning-&-Cross-Domain-Exploration/)                  
+[⬅ Back to Lifelong Learning and Cross Domain Exploration Templates](README.md)                  
 
 [⬅ Back to Home](/Retiree_Corp/)          

@@ -11,6 +11,6 @@
 ---
 
 # Links
-[⬅ Back to Technical Artifacts](Readme.md)
+[⬅ Back to Technical Artifacts](README.md)
 [⬅ Back to Frameworks & Templates](../README.md)
 [⬅ Back to Home](../../README.md)
