@@ -13,12 +13,14 @@ This section contains curated learning paths for members.
 
 > Code, collaborate, craft – write your digital story with Python.
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/688f35f6-b958-46bd-b147-ea51ebc2098b" />
+<img width="1536" height="1024" alt="Python Learning Path Overview" src="../Resources/images/learning-path-overview.png" />
 
 
 Versatile, accessible, and vastly impactful, Python is the definitive language of the current era. It provides the perfect bridge for associates embarking on their professional journeys or evolving toward tech-centric roles. At Retiree Corp, we are on a mission to assemble a premier community of Pythonistas to transform our digital horizon.
 
 Not every developer needs to follow the same path. Python’s ecosystem allows you to specialize in **different domains** based on your interests, career goals, and strengths.
+
+<img width="1536" height="1024" alt="Python Learning Path Detailed" src="../Resources/images/learning-path-detailed.png" />
 
 ---
 
