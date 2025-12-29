@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: Retiree Corp
+description: Github repo for a future CMS to be developed using React/DRF
+markdown: kramdown
