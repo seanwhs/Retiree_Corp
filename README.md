@@ -4,11 +4,11 @@
 
 - [Frameworks & Templates](Framework-and-Template/)
 - [Learning Paths](Learning-Paths/)
-- [Celebrating Milestones & Recognition](Celebrating Milestones & Recognition/)
-- [Project Frameworks & Best Practices](Project Frameworks & Best Practices.md)
-- [Ethical AI and Technology Use](Ethical AI and Technology Use.md)
-- [Health & Well-Being Practices](Health & Well-Being Practices.md)
-- [Mentorship & Knowledge Transfer](Mentorship & Knowledge Transfer.md)
+- [Celebrating Milestones & Recognition](Celebrating-Milestones-&-Recognition/)
+- [Project Frameworks & Best Practices](Framework-and-Template/Project-Frameworks-&-Best-Practices.md)
+- [Ethical AI and Technology Use](Governance,%20Policies%20&%20Decision-Making/Ethical-AI-and-Technology-Use.md)
+- [Health & Well-Being Practices](Health-&-Well-Being-Practices/)
+- [Mentorship & Knowledge Transfer](Lifelong%20Learning%20&%20Cross-Domain%20Exploration/Mentorship-&-Knowledge-Transfer.md)
 
 
 # README — Retiree Corporation: Purpose, Values, and How We Work
