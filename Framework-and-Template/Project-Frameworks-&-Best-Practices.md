@@ -33,3 +33,7 @@ The Retiree Corporation provides structured approaches for collaborative project
 ---
 
 By following these frameworks and best practices, members ensure projects are **impactful, well-managed, and sustainable**, while honoring personal well-being and community collaboration.
+
+# Links
+[⬅ Back to Frameworks & Templates](../README.md)
+[⬅ Back to Home](../../README.md)

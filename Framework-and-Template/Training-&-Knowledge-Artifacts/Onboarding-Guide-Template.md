@@ -12,7 +12,7 @@
 | First Tasks             |                        |                    |       |
 | Support & Contacts      |                        |                    |       |
 
----
-
-[⬅ Back to FAQ and Troubleshooting Templates](../README.md)      
-[⬅ Back to Frameworks & Templates](../README.md) 
+# Links
+[⬅ Back to Training and Knowledge Artifacts](Readme.md)
+[⬅ Back to Frameworks & Templates](../README.md)
+[⬅ Back to Home](../../README.md)

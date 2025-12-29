@@ -8,5 +8,9 @@
 |            |                                    |                |                            |       |       |
 |            |                                    |                |                            |       |       |
 
-[⬅ Back to Project Management Templates](../README.md)  
-[⬅ Back to Frameworks & Templates](../README.md)    
+---
+
+# Links
+[⬅ Back to Project Management Templates](Readme.md)
+[⬅ Back to Frameworks & Templates](../README.md)
+[⬅ Back to Home](../../README.md)
