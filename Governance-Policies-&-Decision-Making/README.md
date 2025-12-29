@@ -30,3 +30,7 @@ The Retiree Corporation maintains clear governance structures to ensure **ethica
 ---
 
 By adhering to these governance practices, the Retiree Corporation ensures a **trustworthy, collaborative, and resilient community** where ethical standards guide all decisions and actions.
+
+---
+
+[⬅ Back to Retiree_Corp](../README.md)
