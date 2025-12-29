@@ -31,3 +31,8 @@ The Retiree Corporation encourages thoughtful integration of AI and technology t
 ---
 
 By responsibly integrating AI and technology, we ensure our contributions remain ethical, impactful, and aligned with the values of the Retiree Corporation.
+
+---
+
+[⬅ Back to Governance and Decision Making Templates](../README.md)      
+[⬅ Back to Frameworks & Templates](../README.md) 

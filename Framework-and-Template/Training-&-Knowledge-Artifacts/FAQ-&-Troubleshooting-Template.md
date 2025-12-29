@@ -6,3 +6,9 @@
 | -------- | ------------------ | ----------------- | -------------------- | ----- | ------------ | ----- |
 |          |                    |                   |                      |       |              |       |
 |          |                    |                   |                      |       |              |       |
+
+
+---
+
+[⬅ Back to FAQ and Troubleshooting Templates](../README.md)      
+[⬅ Back to Frameworks & Templates](../README.md) 
