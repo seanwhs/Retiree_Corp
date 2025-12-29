@@ -59,5 +59,6 @@ Welcome aboard! Your contributions and well-being are both valued as integral pa
 
 ---
 
+[![Join Us](Resources/images/signup.webp)](Sign-Up.md)
 [⬅ Back to Lifelong Learning and Cross Domain Exploration Templates](README.md)      
 [⬅ Back to Home](../README.md) 
