@@ -11,7 +11,7 @@ A collection of frameworks designed for associates and partners. This repository
 
 - [Knowledge Retention & Lessons Learned](Knowledge-Retention-&-Lessons-Learned-Template.md)
 - [Performance Dashboards](Performance-Dashboards-Template.md)
-- [Well-Being & Sustainable Participation Guidelines](Well-Being\ &\ Sustainable\ Participation\ Guidelines\ Template.md)
+- [Well Being & Sustainable Participation Guidelines](Well-Being-&-Sustainable-Participation-Guidelines-Template.md)
 
 ---
 ## 📋 The Philosophy
