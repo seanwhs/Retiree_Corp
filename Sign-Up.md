@@ -12,6 +12,6 @@ Welcome! Fill out the form below to join our community and indicate how you can 
 
 ### Links
 
-- [⬅ Back to Home](../README.md)
+- [⬅ Back to Home](README.md)
 - [Learning Paths](Learning-Paths/)
 - [Onboarding](Lifelong-Learning-&-Cross-Domain-Exploration/Onboarding.md)
