@@ -13,6 +13,6 @@
 | Support & Contacts      |                        |                    |       |
 
 # Links
-[⬅ Back to Training and Knowledge Artifacts](README.md)
-[⬅ Back to Frameworks & Templates](../README.md)
-[⬅ Back to Home](../../README.md)
+[⬅ Back to Training and Knowledge Artifacts](README.md)     
+[⬅ Back to Frameworks & Templates](../README.md)        
+[⬅ Back to Home](../../README.md)       
