@@ -82,3 +82,8 @@ This template provides a structured approach to planning open-source projects fo
 ---
 
 By using this template, contributors can ensure that open-source projects are **well-planned, collaborative, and sustainable**, while supporting learning, knowledge sharing, and community engagement.
+
+---
+
+[⬅ Back to Project Management Templates](../README.md)
+[⬅ Back to Frameworks & Templates](../README.md)
