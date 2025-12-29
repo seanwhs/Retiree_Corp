@@ -12,6 +12,7 @@ Welcome! Fill out the form below to join our community and indicate how you can 
 
 ### Links
 
-- [⬅ Back to Home](README.md)
-- [Learning Paths](Learning-Paths/)
-- [Onboarding](Lifelong-Learning-&-Cross-Domain-Exploration/Onboarding.md)
+- [⬅ Back to Home](/Retiree_Corp/)
+- [Learning Paths](/Retiree_Corp/Learning-Paths/)
+- [Onboarding](/Retiree_Corp/Lifelong-Learning-&-Cross-Domain-Exploration/Onboarding.html)
+

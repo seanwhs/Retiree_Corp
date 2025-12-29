@@ -120,4 +120,4 @@ Our culture is founded on mutual support, mentorship, and quiet excellence. We c
 ## Quick Start
 
 - Explore [Learning Paths](Learning-Paths/) to start your professional pivot with Python.
-[![Join Us](Resources/images/signup.png)](Sign-Up.md)
+[![Join Us](Resources/images/signup.png)](Sign-Up.html)
