@@ -116,3 +116,8 @@ Our culture is founded on mutual support, mentorship, and quiet excellence. We c
 ---
 
 *Thank you for joining our community of retired professionals, dedicated to impactful contributions while honoring holistic well-being.*
+
+## Quick Start
+
+- Explore [Learning Paths](Learning-Paths/) to start your professional pivot with Python.
+- Access [Resources](Resources/) for templates, handouts, and images.
