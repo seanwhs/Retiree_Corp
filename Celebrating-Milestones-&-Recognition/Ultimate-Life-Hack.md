@@ -103,6 +103,8 @@ I choose:
 
 # **Freelancing as a Lifestyle Architecture**
 
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/578dd903-e0c1-4044-8b29-3418c8ed527c" />
+
 I am choosing freelancing **not for growth, but for sovereignty.**
 
 No incorporation.
