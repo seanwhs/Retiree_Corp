@@ -4,6 +4,8 @@
 
 ## **A Life Refactor Toward Sufficiency, Craft, and Sustainable Freedom**
 
+<img width="894" height="596" alt="image" src="https://github.com/user-attachments/assets/d9cfed60-7cd8-4e84-bd0f-5163c9d26189" />
+
 After decades as a principal architect designing secure, distributed systems across global enterprises, I am stepping into a fundamentally different architecture.
 
 No more 6 a.m. escalation calls.
@@ -22,6 +24,8 @@ It is a **full-stack life refactor** — not toward growth, but toward **suffici
 
 # **The New Objective: Sufficiency Over Scale**
 
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b1793322-0c88-4c7d-b6f0-2e03cee01185" />
+
 I am no longer optimizing for:
 
 * Infinite income
@@ -29,6 +33,8 @@ I am no longer optimizing for:
 * Aggressive accumulation
 
 I am optimizing for:
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/35d6e370-a5ac-4ef7-b533-ff7a5ec1776a" />
 
 * **Income sufficient to sustain a deliberately simplified life**
 * **Low financial stress**
