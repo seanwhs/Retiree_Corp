@@ -443,7 +443,7 @@ Chiang Mai → focus
 
 ## **3. Mentorship as Product Discovery**
 
-At 57, wisdom becomes:
+At 58, wisdom becomes:
 
 * Market intelligence
 * Pattern recognition
@@ -481,22 +481,22 @@ It is **system design.**
 
 # **Final Principle: The Freedom Equation**
 
-You once sold **time**.
-Now you sell **outcomes.**
+I once sold **time**.
+Now I sell **outcomes.**
 
-You once built **systems for corporations.**
-Now you build **systems for yourself.**
+I once built **systems for corporations.**
+Now you build **systems for all.**
 
 **Network = leverage**
 **Automation = freedom**
 **Product = sovereignty**
 
-At this stage, you are no longer a freelancer.
+At this stage, I am no longer a freelancer.
 
-You are a:
+I am a:
 
 > **Fractional CTO with implementation power.**
 
-You have refactored your life.
+I have refactored your life.
 
 And the system finally runs clean. 🚀
