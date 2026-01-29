@@ -291,7 +291,7 @@ This eliminates:
 
 ---
 
-## 13. CTO ROI Model
+## 13. ROI Model
 
 ### High Leverage Areas
 
@@ -349,7 +349,7 @@ The Pragmatic Stack represents:
 
 > **Engineering discipline over trend chasing.**
 
-It allows CTOs to:
+It allows nomadic digital teams to:
 
 * Ship faster
 * Hire easier
